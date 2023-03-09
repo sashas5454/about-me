@@ -1,7 +1,7 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
+  background-color: #b4d3b2; 
   font-family: Georgia, serif; 
 }
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-  font-size: 36px; 
+  font-size: 30px; 
 }
 
 p {
@@ -26,7 +26,7 @@ p {
 
 ul {
   font-size: 20px; 
-  list-style-type: square; 
+  list-style-type: circle; 
 }
 
 code {
